@@ -1,4 +1,4 @@
-
+//accept string and display alternate character from it
 
 #include<stdio.h>
 #include<string.h>
