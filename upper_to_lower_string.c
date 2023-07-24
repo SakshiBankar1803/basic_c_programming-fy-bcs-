@@ -1,3 +1,5 @@
+//ACCEPT A UPPERCASE STRING AND PRINT LOWERCASE STRING OF IT....
+
 #include<stdio.h>
 int main()
 {
